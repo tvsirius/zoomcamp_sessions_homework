@@ -1,2 +1,4 @@
 data.csv
 housing.csv
+*.tflite
+*.h5
