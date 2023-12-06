@@ -24,4 +24,3 @@ spec:
             cpu: "200m"
         ports:
         - containerPort: 9696
-        
