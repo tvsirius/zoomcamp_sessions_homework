@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: credit
+spec:
+  selector:
+    app: credit
+  ports:
+  - port: 80
+    targetPort: 9696
